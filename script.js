@@ -349,7 +349,7 @@ function createShootingStar(){
    TYPEWRITER LETTER
 ====================== */
 
-const letter = `Dear Imma,
+const letter = `Dear Imma🥰,
 
 Every day with you becomes one of my favorite memories.
 
@@ -359,10 +359,11 @@ and your beautiful heart.
 
 No matter where life takes us,
 my heart will always find yours.
+It's not been easy but our hearts took it easy and trust,built the strong bond and we pray for our love to prosper until we die. I LOVE YOU🥰
 
 Happy Anniversary ❤️
 
-Forever Yours,
+Yours today,Yours Tomorrow and Forever Yours,
 
 Balozi`;
 
