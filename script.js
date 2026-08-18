@@ -34,7 +34,8 @@ const galleryImages = [
  "IMG_20250815_155004_263.jpg",
  "IMG_20250815_155017_178.jpg",
  "IMG_20250815_155035_366.jpg",
- "IMG_20260105_124335_567.jpg"
+ "IMG_20260105_124335_567.jpg",
+
 ];
 
 function loadGallery() {
